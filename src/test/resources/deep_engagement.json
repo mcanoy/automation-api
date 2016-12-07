@@ -725,6 +725,16 @@
                                  "name": "view"
                                }
                              ]
+                           },
+                           {
+                            "group": {
+                              "name": "system:serviceaccounts:automation-api"
+                             },
+                             "roles": [
+                               {
+                                 "name": "view"
+                               }
+                             ]
                            }
                         ],
                         "user_to_role": [
